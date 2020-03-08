@@ -1,4 +1,4 @@
-### Parolify
+# Parolify
 
 ## Description
 
